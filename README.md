@@ -1,2 +1,3 @@
-# Viki-Volume-Control
-Viki extension to control volume with the mouse wheel.
+# Viki Volume Control
+
+Simple chrome extention to control volume with mouse wheel on [Viki](https://www.viki.com/)
