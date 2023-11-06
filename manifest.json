@@ -1,7 +1,7 @@
 {
 	"name": "Viki Volume Control",
 	"version": "1.0.0",
-	  "author": "zvbt",
+	"author": "zvbt",
 	"manifest_version": 3,
 	"description": "Viki extension to control volume with the mouse wheel.",
 	 "homepage_url": "https://github.com/zvbt/Viki-Volume-Control",
@@ -17,5 +17,11 @@
 			"js": ["src/viki.js"]
 		}
 	],
+	"browser_specific_settings": {
+  	"gecko": {
+    	"id": "zvbt@akali.best",
+    	"strict_min_version": "42.0"
+  }
+},
 	"host_permissions": ["*://*.viki.com/"]
 }
