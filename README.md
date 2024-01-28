@@ -2,7 +2,7 @@
 
 Simple extention to control volume with mouse wheel on [Viki](https://www.viki.com/)
 
-For Chromium based browser download the [.crx](https://github.com/zvbt/Viki-Volume-Control/releases/latest) and import it in your browser.
+For Chromium based browser download this repo and import it in your browser.
 
 For Firefox click the image bellow or download the [.xpi](https://github.com/zvbt/Viki-Volume-Control/releases/latest) and import it in your browser.
 
